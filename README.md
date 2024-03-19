@@ -1,6 +1,6 @@
 # Welcome to the Golf Predictor Project
 
-**Video Demo: https://youtu.be/KwKQHAUoarQ 
+**Video Demo:**: https://youtu.be/KwKQHAUoarQ 
 
 **Here is a high level overview of our project:**
 
